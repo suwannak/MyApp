@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AcreageFarmerAppOnAndroid</string>
+
+    <string name="title_activity_about">เกี่ยวกับแอปพลิเคชั่น</string>
+    <string name="about_title">เกี่ยวกับแอปพลิเคชั่น</string>
+    <string name="about_text">\
+        <b>ระบบสารสนเทศข้อมูลพื้นที่เพาะปลูกของเกษตรกรระดับครัวเรือนบนแอนดรอยด์</b>
+        เป็นแอปพลิเคชั่นสำหรับบันทึกข้อมูลพื้นที่เพาะปลูกของเกษตรกร
+        เพื่อให้เกษตรกรหรือผู้ที่สนใจได้รับทราบข้อมูลการเพาะปลูกพืช
+        ของเกษตกรคนอื่นๆในพื้นที่ต่างๆ เพื่อลดปัญหาการปลูกพืชซ้ำซ้อน
+        ที่จะทำให้เกิดผลผลิตที่ล้นตลาด และขายได้ราคาต่ำ
+    </string>
+
+    <string-array name="title">
+        <item>นาย</item>
+        <item>นาง</item>
+        <item>นางสาว</item>
+    </string-array>
+
+
+</resources>
